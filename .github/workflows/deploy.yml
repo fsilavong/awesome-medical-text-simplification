@@ -20,11 +20,11 @@ jobs:
 
       - name: Change directory to myapp
         run: cd myapp
-        
+
       - name: Install dependencies
         run: |
           cd myapp
-          npm run build
+          npm install
 
       - name: Build Svelte app
         run: |
