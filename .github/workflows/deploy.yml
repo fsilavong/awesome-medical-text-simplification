@@ -35,7 +35,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: myapp/dist
+          publish_dir: myapp/build
 
 permissions:
   contents: write
