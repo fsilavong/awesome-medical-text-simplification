@@ -1,5 +1,6 @@
 import datetime
 import json
+from tqdm import tqdm
 
 from litocate.data.utils import compound_token_match
 from litocate.data.constant import DS_FORMAT, LAST_UPDATE_KEY, RESULT_KEY
@@ -41,7 +42,7 @@ Passage:
 """
 classifier = LLMClassifier(classify_prompt)
 
-for r in filtered_results:
+for r in tqdm(filtered_results):
     passage = f"""
     {r['title']}
     

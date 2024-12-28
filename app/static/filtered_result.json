@@ -15,7 +15,9 @@
                 "pmc": "10149562",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36317789/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development of a Patient Activation Toolkit for Hepatitis C Virus Testing",
@@ -29,7 +31,9 @@
                 "pmc": "10187067",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35971055/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of Available Online Information Regarding Treatment for Vitreous Floaters",
@@ -48,7 +52,9 @@
                 "pmc": "8026748",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33599190/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Machine Scoring of Medical Students\u2019 Written Clinical Reasoning: Initial Validity Evidence",
@@ -65,7 +71,9 @@
                 "pmc": "8243833",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33637657/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improved readability and functions needed for mHealth apps targeting patients with heart failure: An app store review",
@@ -79,7 +87,9 @@
                 "pmc": "8270757",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33107056/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Quality, Content, and Readability of Freely Available Online Information for Patients Regarding Age-Related Macular Degeneration",
@@ -98,7 +108,9 @@
                 "pmc": "8328874",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33646928/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Biennial Analysis of Medication Guide Length and Estimated Readability for New Molecular Entity Drugs, 2011 \u2013 2017",
@@ -115,7 +127,9 @@
                 "pmc": "8338801",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33970464/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Development and Usability of the AMPREDICT Decision Support Tool: A Mixed Methods Study",
@@ -132,7 +146,9 @@
                 "pmc": "8376076",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34088615/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "What\u2019s in Between the Lines: Assessing the Readability, Understandability, and Actionability in Breast Cancer Survivorship Print Materials",
@@ -146,7 +162,9 @@
                 "pmc": "8492775",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33822316/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "SEE-Diabetes, a Patient-Centered Diabetes Self-Management Education and Support for Older Adults: Findings and Information Needs from Patients\u2019 Perspectives",
@@ -163,7 +181,9 @@
                 "pmc": "9133060",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35227635/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Paragraph-level Simplification of Medical Texts",
@@ -177,7 +197,9 @@
                 "pmc": "9161242",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35663507/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating Factuality in Text Simplification",
@@ -191,7 +213,9 @@
                 "pmc": "9671157",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36404800/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Physicians\u2019 use of plain language during discussions of prostate cancer clinical trials with patients",
@@ -209,7 +233,9 @@
                 "pmc": "9675686",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36085183/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability and Quality of English and Spanish Online Health Information about Cochlear Implants",
@@ -228,7 +254,9 @@
                 "pmc": "9928885",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36728625/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of Online Hand and Upper Extremity Patient Resources",
@@ -249,7 +277,9 @@
                 "pmc": "PMC10085876",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10085876/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of online health information pertaining to migraine and headache in the UK",
@@ -263,7 +293,9 @@
                 "pmc": "PMC10088424",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088424/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Content, Readability, and Accountability of Online Health Information for Patients Regarding Blue Light and Impact on Ocular Health",
@@ -284,7 +316,9 @@
                 "pmc": "PMC10249644",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10249644/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Google Trends\u2122 and Quality of Information Analyses of Google\u2122 Searches Pertaining to Concussion",
@@ -298,7 +332,9 @@
                 "pmc": "PMC10039270",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10039270/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Application of artificial intelligence in diagnosis and treatment of colorectal cancer: A novel Prospect",
@@ -312,7 +348,9 @@
                 "pmc": "PMC10030915",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10030915/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Determination of the Readability Level of Consent Forms Used in the Gynecology and Obstetrics Clinic at Suleyman Demirel University",
@@ -333,7 +371,9 @@
                 "pmc": "PMC10074016",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10074016/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Readiness of ChatGPT to Write Scientific Case Reports Independently: A Comparative Evaluation Between Human and Artificial Intelligence",
@@ -347,7 +387,9 @@
                 "pmc": "PMC10292135",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292135/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comprehensiveness of online sources for patient education on hereditary hearing impairment",
@@ -364,7 +406,9 @@
                 "pmc": "PMC10315533",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10315533/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing Readability of FDA-Required Labeling for Breast Implants",
@@ -382,7 +426,9 @@
                 "pmc": "PMC10316408",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10316408/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Using the H2O Automatic Machine Learning Algorithms to Identify Predictors of Web-Based Medical Record Nonuse Among Patients in a Data-Rich Environment: Mixed Methods Study",
@@ -400,7 +446,9 @@
                 "pmc": "PMC10337515",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37335616/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "ChatGPT's Ability to Assess Quality and Readability of Online Medical Information: Evidence From a Cross-Sectional Study",
@@ -421,7 +469,9 @@
                 "pmc": "PMC10362474",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10362474/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation",
@@ -435,7 +485,9 @@
                 "pmc": "PMC10378572",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10378572/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Factors Influencing the Effectiveness of E-Learning in Healthcare: A Fuzzy ANP Study",
@@ -449,7 +501,9 @@
                 "pmc": "PMC10379776",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10379776/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Health Information From Web Search Engines and Virtual Assistants About Pre-Exposure Prophylaxis for HIV Prevention in Adolescents and Young Adults: Content Analysis",
@@ -467,7 +521,9 @@
                 "pmc": "PMC10394601",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37463044/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "ChatGPT vs Google for Queries Related to Dementia and Other Cognitive Decline: Comparison of Results",
@@ -485,7 +541,9 @@
                 "pmc": "PMC10410383",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37490317/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Advance Care Planning Website for People With Dementia and Their Family Caregivers: Protocol for a Development and Usability Study",
@@ -504,7 +562,9 @@
                 "pmc": "PMC10413243",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37494084/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Challenges and Solutions in Implementing eSource Technology for Real-World Studies in China: Qualitative Study Among Different Stakeholders",
@@ -522,7 +582,9 @@
                 "pmc": "PMC10450541",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37561551/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Patient perceptions of the readability and helpfulness of bilingual clinical forms: a survey study",
@@ -539,7 +601,9 @@
                 "pmc": "PMC10464213",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37626348/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing Racial and Ethnic Bias in Text Generation for Healthcare-Related Tasks by ChatGPT1",
@@ -553,7 +617,9 @@
                 "pmc": "PMC10491360",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37693388/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Readability of Online Patient Education Materials in Obstetrics and Gynecology Using Traditional Measures: Comparative Analysis and Limitations",
@@ -571,7 +637,9 @@
                 "pmc": "PMC10500363",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37647115/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "From quality to clarity: evaluating the effectiveness of online \u0131nformation related to septic arthritis",
@@ -588,7 +656,9 @@
                 "pmc": "PMC10503092",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37715176/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Accessibility and readability of online patient education on cutaneous lymphomas",
@@ -607,7 +677,9 @@
                 "pmc": "PMC10505972",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505972/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Does splitting make sentence easier?",
@@ -621,7 +693,9 @@
                 "pmc": "PMC10544970",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10544970/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessment of Arabic Web-Based Knowledge About Clear Aligners: An Infodemiologic Study",
@@ -638,7 +712,9 @@
                 "pmc": "PMC10570755",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10570755/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "An mHealth Text Messaging Program Providing Symptom Detection Training and Psychoeducation to Improve Hypoglycemia Self-Management: Intervention Development Study",
@@ -656,7 +732,9 @@
                 "pmc": "PMC10582820",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37788058/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Web-Based Information on the Treatment of Dental Hypomineralization",
@@ -673,7 +751,9 @@
                 "pmc": "PMC10594141",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37881377/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Quality and readability of web-based information on dental caries in Arabic: an infodemiological study",
@@ -691,7 +771,9 @@
                 "pmc": "PMC10601140",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37880640/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating understandability and actionability of online education materials for home-care patients with COVID-19 in Japan",
@@ -707,7 +789,9 @@
                 "pmc": "PMC10601193",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37880802/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating the Quality, Readability, and Activity of Online Information on Brain Arteriovenous Malformations",
@@ -728,7 +812,9 @@
                 "pmc": "PMC10601510",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10601510/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Is Online Patient-Centered Information About Implant Bone Graft Valid?",
@@ -749,7 +835,9 @@
                 "pmc": "PMC10615150",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10615150/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Online Patient Education Resources for Anterior Cruciate Ligament Reconstruction: An Assessment of the Accuracy and Reliability of Information on the Internet Over the Past Decade",
@@ -767,7 +855,9 @@
                 "pmc": "PMC10627413",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10627413/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "How Efficient Is ChatGPT in Accessing Accurate and Quality Health-Related Information?",
@@ -788,7 +878,9 @@
                 "pmc": "PMC10628365",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10628365/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of Quality and Readability of Online Patient-Centered Arabic Web-Based Knowledge About Apicoectomy",
@@ -809,7 +901,9 @@
                 "pmc": "PMC10629976",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629976/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Investigating the Readability and Linguistic, Psychological, and Emotional Characteristics of Digital Dementia Information Written in the English Language: Multitrait-Multimethod Text Analysis",
@@ -827,7 +921,9 @@
                 "pmc": "PMC10632922",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37878351/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Online Patient Education Materials on Iron Deficiency Anemia Are Too Difficult to Read and Low Quality: A Readability and Quality Analysis",
@@ -848,7 +944,9 @@
                 "pmc": "PMC10638891",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10638891/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A study of generative large language model for medical research and healthcare",
@@ -862,7 +960,9 @@
                 "pmc": "PMC10654385",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37973919/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessing the Readability of Online Health Information for Colonoscopy \u2014 Analysis of Articles in 22 European Languages",
@@ -876,7 +976,9 @@
                 "pmc": "PMC10656333",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37493981/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating the readability of recruitment materials in veterinary clinical research",
@@ -896,7 +998,9 @@
                 "pmc": "PMC10658532",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37759419/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Anatomical characterization of pulmonary artery and implications to pulmonary artery pressure monitor implantation",
@@ -910,7 +1014,9 @@
                 "pmc": "PMC10665414",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37993563/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Readability and Quality of Web-Based Patient Information on Nasopharyngeal Carcinoma: Quantitative Content Analysis",
@@ -928,7 +1034,9 @@
                 "pmc": "PMC10714271",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38010802/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Toward explainable AI (XAI) for mental health detection based on language behavior",
@@ -942,7 +1050,9 @@
                 "pmc": "PMC10748510",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38144474/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Quality of Web-Based Sickle Cell Disease Resources for Health Care Transition: Website Content Analysis",
@@ -960,7 +1070,9 @@
                 "pmc": "PMC10750976",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38100579/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the readability and quality of online information on benign paroxysmal positional vertigo",
@@ -977,7 +1089,9 @@
                 "pmc": "PMC10757881",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36748797/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Literacy-related factors and knowledge of patient rights charter: evidence from nurses in selected hospitals in Ghana",
@@ -995,7 +1109,9 @@
                 "pmc": "PMC10801987",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10801987/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving health literacy of antifungal use\u2014Comparison of the readability of antifungal medicines information from Australia, EU, UK, and US of 16 antifungal agents across 5 classes (allylamines, azoles, echinocandins, polyenes, and others)",
@@ -1010,7 +1126,9 @@
                 "pmc": "PMC10802897",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37562942/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comprehensiveness, Accuracy, and Readability of Exercise Recommendations Provided by an AI-Based Chatbot: Mixed Methods Study",
@@ -1028,7 +1146,9 @@
                 "pmc": "PMC10811574",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38206661/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and Preliminary Validation of an Equine Brief Pain Inventory for Owner Assessment of Chronic Pain Due to Osteoarthritis in Horses",
@@ -1043,7 +1163,9 @@
                 "pmc": "PMC10812429",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38254349/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Evaluation of the Suitability, Quality, and Readability of Publicly Available Online Resources for the Self-Management of Fear of Cancer Recurrence",
@@ -1057,7 +1179,9 @@
                 "pmc": "PMC10814354",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38248090/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Accuracy and comprehensibility of chat-based artificial intelligence for patient information on atrial fibrillation and cardiac implantable electronic devices",
@@ -1074,7 +1198,9 @@
                 "pmc": "PMC10824484",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38127304/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessing the readability and quality of online information on anosmia",
@@ -1092,7 +1218,9 @@
                 "pmc": "PMC10830341",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37051757/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comparison of large language models in management advice for melanoma: Google's AI BARD, BingAI and ChatGPT",
@@ -1107,7 +1235,9 @@
                 "pmc": "PMC10831541",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10831541/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Validity and reliability of the English version of the Diabetic Foot Self-Care Questionnaire: a cross-cultural adaptation",
@@ -1124,7 +1254,9 @@
                 "pmc": "PMC10851747",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38332943/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Artificial Intelligence Language Model Performance for Rapid Intraoperative Queries in Plastic Surgery: ChatGPT and the Deep Inferior Epigastric Perforator Flap",
@@ -1138,7 +1270,9 @@
                 "pmc": "PMC10856538",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10856538/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Study to evaluate the readability and visual appearance of online resources for blunt chest trauma: an evaluation of online resources using mixed methods",
@@ -1156,7 +1290,9 @@
                 "pmc": "PMC10860042",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38320839/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Can ChatGPT assist authors with abstract writing in medical journals? Evaluating the quality of scientific abstracts generated by ChatGPT and original abstracts",
@@ -1173,7 +1309,9 @@
                 "pmc": "PMC10866463",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866463/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Artificial intelligence compared with human-derived patient educational materials on cirrhosis",
@@ -1190,7 +1328,9 @@
                 "pmc": "PMC10871753",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38358382/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Magnetoencephalography (MEG) Data Processing in Epilepsy Patients with Implanted Responsive Neurostimulation (RNS) Devices",
@@ -1204,7 +1344,9 @@
                 "pmc": "PMC10887328",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38391747/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Cultural Adaption, Translation, Preliminary Reliability and Validity of Key Psychological and Behavioural Measures for 18 to 25 Year-Olds Living with HIV in Uganda: A Multi-Stage Approach",
@@ -1219,7 +1361,9 @@
                 "pmc": "PMC10896775",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37792229/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Bridging the literacy gap for surgical consents: an AI-human expert collaborative approach",
@@ -1233,7 +1377,9 @@
                 "pmc": "PMC10923794",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38459205/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Web-Based Information on Spinal Cord Stimulation: Qualitative Assessment of Publicly Accessible Online Resources",
@@ -1251,7 +1397,9 @@
                 "pmc": "PMC10924266",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38393781/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Conclusiveness, readability and textual characteristics of plain language summaries from medical and non-medical organizations: a cross-sectional study",
@@ -1265,7 +1413,9 @@
                 "pmc": "PMC10933350",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38472285/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Exploring the potential of ChatGPT in medical dialogue summarization: a study on consistency with human preferences",
@@ -1282,7 +1432,9 @@
                 "pmc": "PMC10938713",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10938713/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Quality assessment of available Internet information on early orthodontic treatment",
@@ -1299,7 +1451,9 @@
                 "pmc": "PMC10949753",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949753/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving the Readability of Patient Education Materials in Physical Therapy",
@@ -1320,7 +1474,9 @@
                 "pmc": "PMC10956377",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38516499/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of the Accuracy, Credibility, and Readability of Statin-Related Websites: Cross-Sectional Study",
@@ -1338,7 +1494,9 @@
                 "pmc": "PMC10979333",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38483461/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Generative Pre-trained Transformer 4 makes cardiovascular magnetic resonance reports easy to understand",
@@ -1356,7 +1514,9 @@
                 "pmc": "PMC10981113",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38460841/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "A content analysis of medication adherence material in patient educational resources about gout",
@@ -1374,7 +1534,9 @@
                 "pmc": "PMC11018534",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38629107/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Biomedical text readability after hypernym substitution with fine-tuned large language models",
@@ -1388,7 +1550,9 @@
                 "pmc": "PMC11020904",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11020904/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "The Birth of the Contextual Health Education Readability Score in an Examination of Online Influenza Patient Education Materials",
@@ -1411,7 +1575,9 @@
                 "pmc": "PMC11033604",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38650807/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Empowering inclusivity: improving readability of living kidney donation information with ChatGPT",
@@ -1428,7 +1594,9 @@
                 "pmc": "PMC11039889",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38659656/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "How artificial intelligence can provide information about subdural hematoma: Assessment of readability, reliability, and quality of ChatGPT, BARD, and perplexity responses",
@@ -1442,7 +1610,9 @@
                 "pmc": "PMC11062651",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11062651/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "A Multidisciplinary Assessment of ChatGPT\u2019s Knowledge of Amyloidosis: Observational Study",
@@ -1460,7 +1630,9 @@
                 "pmc": "PMC11069089",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38640472/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Large language models and bariatric surgery patient education: a comparative readability analysis of GPT-3.5, GPT-4, Bard, and online institutional resources",
@@ -1478,7 +1650,9 @@
                 "pmc": "PMC11078810",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38472531/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Dr. Google to Dr. ChatGPT: assessing the content and quality of artificial intelligence-generated medical information on appendicitis",
@@ -1495,7 +1669,9 @@
                 "pmc": "PMC11078845",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38443499/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessing the Responses of Large Language Models (ChatGPT-4, Gemini, and Microsoft Copilot) to Frequently Asked Questions in Breast Imaging: A Study on Readability and Accuracy",
@@ -1516,7 +1692,9 @@
                 "pmc": "PMC11080394",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38726360/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Readability Analysis of Patient Education Material on Rotator Cuff Injuries From the Top 25 Ranking Orthopaedic Institutions",
@@ -1534,7 +1712,9 @@
                 "pmc": "PMC11081572",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11081572/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Leveraging Large Language Models for Improved Patient Access and Self-Management: Assessor-Blinded Comparison Between Expert- and AI-Generated Content",
@@ -1552,7 +1732,9 @@
                 "pmc": "PMC11082737",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38663010/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "An evaluation of written materials for supporting hypertensive patient education and counselling when performing a new medicine service in Poland",
@@ -1567,7 +1749,9 @@
                 "pmc": "PMC11088063",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38730316/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of the Arabic patient-centered online information about orthodontic pain: A quality and readability assessment",
@@ -1584,7 +1768,9 @@
                 "pmc": "PMC11115317",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38781283/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of the Quality and Readability of Information Provided by ChatGPT in Relation to the Use of Platelet-Rich Plasma Therapy for Osteoarthritis",
@@ -1598,7 +1784,9 @@
                 "pmc": "PMC11122161",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122161/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "ChatGPT makes medicine easy to swallow: an exploratory case study on simplified radiology reports",
@@ -1619,7 +1807,9 @@
                 "pmc": "PMC11126432",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37794249/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating ChatGPT-3.5 and ChatGPT-4.0 Responses on Hyperlipidemia for Patient Education",
@@ -1642,7 +1832,9 @@
                 "pmc": "PMC11128363",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38803402/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessment of medical information on irritable bowel syndrome information in Wikipedia and Baidu Encyclopedia: comparative study",
@@ -1660,7 +1852,9 @@
                 "pmc": "PMC11129691",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38803580/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "ChatGPT-4 Can Help Hand Surgeons Communicate Better With Patients",
@@ -1674,7 +1868,9 @@
                 "pmc": "PMC11133925",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11133925/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "What makes an article a must read in medical education?",
@@ -1692,7 +1888,9 @@
                 "pmc": "PMC11134941",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38807077/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Supporting health and social care professionals in serious illness conversations: Development, validation, and preliminary evaluation of an educational booklet",
@@ -1706,7 +1904,9 @@
                 "pmc": "PMC11142603",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38820471/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "MAD-FC: A fold change visualization with readability, proportionality, and symmetry",
@@ -1720,7 +1920,9 @@
                 "pmc": "PMC11142613",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38820396/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Artificial Intelligence in Postoperative Care: Assessing Large Language Models for Patient Recommendations in Plastic Surgery",
@@ -1734,7 +1936,9 @@
                 "pmc": "PMC11171524",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11171524/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "A Cross-Sectional Analysis of the Readability of Online Information Regarding Hip Osteoarthritis",
@@ -1759,7 +1963,9 @@
                 "pmc": "PMC11181007",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38887325/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "ChatGPT: is it good for our glaucoma patients?",
@@ -1776,7 +1982,9 @@
                 "pmc": "PMC11182305",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38983063/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating ChatGPT-4\u2019s performance as a digital health advisor for otosclerosis surgery",
@@ -1793,7 +2001,9 @@
                 "pmc": "PMC11188327",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38903865/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessing parental comprehension of online resources on childhood pain",
@@ -1807,7 +2017,9 @@
                 "pmc": "PMC11191864",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38905405/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Exploring the Role of ChatGPT-4, BingAI, and Gemini as Virtual Consultants to Educate Families about Retinopathy of Prematurity",
@@ -1821,7 +2033,9 @@
                 "pmc": "PMC11202218",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11202218/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Large Language Models for Intraoperative Decision Support in Plastic Surgery: A Comparison between ChatGPT-4 and Gemini",
@@ -1835,7 +2049,9 @@
                 "pmc": "PMC11205293",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11205293/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing ChatGPT Ability to Answer Frequently Asked Questions About Essential Tremor",
@@ -1852,7 +2068,9 @@
                 "pmc": "PMC11225576",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11225576/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Developing Medication Reviews to Improve the Aruban Healthcare System: A Mixed-Methods Pilot Study",
@@ -1866,7 +2084,9 @@
                 "pmc": "PMC11270182",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270182/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Quality Assessment of Internet Information Regarding Periodontitis in Persons Living with HIV",
@@ -1880,7 +2100,9 @@
                 "pmc": "PMC11276730",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11276730/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving biomedical entity linking for complex entity mentions with LLM-based text simplification",
@@ -1895,7 +2117,9 @@
                 "pmc": "PMC11281847",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11281847/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Readability analysis of ChatGPT's responses on lung cancer",
@@ -1909,7 +2133,9 @@
                 "pmc": "PMC11282056",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39060365/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Using artificial intelligence to generate medical literature for urology patients: a comparison of three different large language models",
@@ -1926,7 +2152,9 @@
                 "pmc": "PMC11286728",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39073590/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Readability of Online Patient Education Materials for the 10 Most Common Hand Conditions",
@@ -1947,7 +2175,9 @@
                 "pmc": "PMC11297599",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39099975/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "An Evaluation of the Content Quality, Readability, and Reliability of Publicly Available Web-Based Information on Pneumothorax Surgery in Ireland",
@@ -1972,7 +2202,9 @@
                 "pmc": "PMC11297662",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39099997/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Readability of Patient Education Materials on Cardiac Catheterization From Artificial Intelligence Chatbots: An Observational Cross-Sectional Study",
@@ -1989,7 +2221,9 @@
                 "pmc": "PMC11297732",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39099896/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Blepharoplasty Online: Critical Analysis of Content and Patient Comprehensibility",
@@ -2007,7 +2241,9 @@
                 "pmc": "PMC11300528",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38789805/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A pilot feasibility study comparing large language models in extracting key information from ICU patient text records from an Irish population",
@@ -2025,7 +2261,9 @@
                 "pmc": "PMC11327225",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39147878/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Content Analysis of Arabic Websites As Patient Resources for Osteoporosis",
@@ -2042,7 +2280,9 @@
                 "pmc": "PMC11330570",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39156464/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A comparison of the diagnostic ability of large language models in challenging clinical cases",
@@ -2060,7 +2300,9 @@
                 "pmc": "PMC11330891",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39161790/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Open Brain AI and language assessment",
@@ -2074,7 +2316,9 @@
                 "pmc": "PMC11333242",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39165904/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model",
@@ -2088,7 +2332,9 @@
                 "pmc": "PMC11338460",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39167594/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comparative Analysis of Accuracy, Readability, Sentiment, and Actionability: Artificial Intelligence Chatbots (ChatGPT and Google Gemini) versus Traditional Patient Information Leaflets for Local Anesthesia in Eye Surgery",
@@ -2105,7 +2351,9 @@
                 "pmc": "PMC11342839",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11342839/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluation of Generative Language Models in Personalizing Medical Information: Instrument Validation Study",
@@ -2123,7 +2371,9 @@
                 "pmc": "PMC11350306",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39137416/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluation of the Quality and Readability of Web-Based Information Regarding Foreign Bodies of the Ear, Nose, and Throat: Qualitative Content Analysis",
@@ -2141,7 +2391,9 @@
                 "pmc": "PMC11362703",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39145998/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Refining the Universal, School-Based OurFutures Mental Health Program to Be Trauma Informed, Gender and Sexuality Diversity Affirmative, and Adherent to Proportionate Universalism: Mixed Methods Participatory Design Process",
@@ -2159,7 +2411,9 @@
                 "pmc": "PMC11375394",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39167794/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of the Quality and Readability of Web-Based Arabic Health Information on Halitosis: Infodemiological Study",
@@ -2177,7 +2431,9 @@
                 "pmc": "PMC11391154",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39196637/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Thematic coverage and readability of online patient information on cochlear implant care",
@@ -2195,7 +2451,9 @@
                 "pmc": "PMC11392990",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38705897/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Online Patient Education in Obstructive Sleep Apnea: ChatGPT versus Google Search",
@@ -2209,7 +2467,9 @@
                 "pmc": "PMC11394980",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11394980/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Comparison of ChatGPT versions in informing patients with rotator cuff injuries",
@@ -2226,7 +2486,9 @@
                 "pmc": "PMC11401580",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11401580/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating the impacts of digital ECG denoising on the interpretive capabilities of healthcare professionals",
@@ -2243,7 +2505,9 @@
                 "pmc": "PMC11417490",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11417490/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Accuracy and Readability of Artificial Intelligence Chatbot Responses to Vasectomy-Related Questions: Public Beware",
@@ -2264,7 +2528,9 @@
                 "pmc": "PMC11427961",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11427961/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Unveiling readability challenges: An extensive analysis of consent document accessibility in clinical trials",
@@ -2281,7 +2547,9 @@
                 "pmc": "PMC11428065",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11428065/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Recommendations for developing accessible patient information leaflets for clinical trials to address English language literacy as a barrier to research participation",
@@ -2299,7 +2567,9 @@
                 "pmc": "PMC11430508",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11430508/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Readability and Comprehensibility of Online Patient Educational Materials for Common Psychotic Disorders",
@@ -2320,7 +2590,9 @@
                 "pmc": "PMC11438542",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11438542/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "An Observational Study to Evaluate Readability and Reliability of AI-Generated Brochures for Emergency Medical Conditions",
@@ -2341,7 +2613,9 @@
                 "pmc": "PMC11441454",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39350844/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Empowering patients: how accurate and readable are large language models in renal cancer education",
@@ -2358,7 +2632,9 @@
                 "pmc": "PMC11464325",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39391252/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "The user-centered design and development of a childhood and adolescent obesity Electronic Health Record tool, a mixed-methods study",
@@ -2376,7 +2652,9 @@
                 "pmc": "PMC11476727",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39411348/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Digital Education on Hospital Nutrition Diets: What Do Patients Want to Know?",
@@ -2390,7 +2668,9 @@
                 "pmc": "PMC11478968",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11478968/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Ascle\u2014A Python Natural Language Processing Toolkit for Medical Text Generation: Development and Evaluation Study",
@@ -2408,7 +2688,9 @@
                 "pmc": "PMC11487205",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39361955/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessing the Quality of Patient Education Materials on Cardiac Catheterization From Artificial Intelligence Chatbots: An Observational Cross-Sectional Study",
@@ -2429,7 +2711,9 @@
                 "pmc": "PMC11498076",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39445289/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Appropriateness and readability of Google Bard and ChatGPT-3.5 generated responses for surgical treatment of glaucoma",
@@ -2447,7 +2731,9 @@
                 "pmc": "PMC11503238",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11503238/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Implementation of Outpatient Automated Stewardship Information System (OASIS\u00a9) Audit and Feedback in Two Healthcare Systems",
@@ -2461,7 +2747,9 @@
                 "pmc": "PMC11504877",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11504877/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Challenges for EU User Testing Policies for Patient Information Leaflets",
@@ -2475,7 +2763,9 @@
                 "pmc": "PMC11507276",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11507276/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Behavioral Nudging With Generative AI for Content Development in SMS Health Care Interventions: Case Study",
@@ -2493,7 +2783,9 @@
                 "pmc": "PMC11522651",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39405108/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Developing a Comprehensive Inventory to Define Harm Reduction Housing",
@@ -2510,7 +2802,9 @@
                 "pmc": "PMC11527206",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39483918/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Generative artificial intelligence writing open notes: A mixed methods assessment of the functionality of GPT 3.5 and GPT 4.0",
@@ -2528,7 +2822,9 @@
                 "pmc": "PMC11528788",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11528788/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessment of the Quality and Readability of Online Resources on Corneal Transplantation",
@@ -2545,7 +2841,9 @@
                 "pmc": "PMC11531918",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39493116/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving Biomedical Science Literacy and Patient-Directed Knowledge of Tuberculosis (TB): A Cross-Sectional Infodemiology Study Examining Readability of Patient-Facing TB Information",
@@ -2562,7 +2860,9 @@
                 "pmc": "PMC11534592",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39502459/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Clinical Appropriateness and Practical Utility of ChatGPT as an Educational Resource for Patients Considering Minimally Invasive Spine Surgery",
@@ -2583,7 +2883,9 @@
                 "pmc": "PMC11548952",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11548952/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Large language models in patient education: a scoping review of applications in medicine",
@@ -2600,7 +2902,9 @@
                 "pmc": "PMC11554522",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39534227/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Ensuring Accuracy and Equity in Vaccination Information From ChatGPT and CDC: Mixed-Methods Cross-Language Evaluation",
@@ -2618,7 +2922,9 @@
                 "pmc": "PMC11561424",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39476380/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "\u201cDeveloping the tool SDM:KOMPASS. Supporting shared decision making implementation processes\u201d",
@@ -2632,7 +2938,9 @@
                 "pmc": "PMC11573207",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39556538/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Accuracy of Prospective Assessments of 4 Large Language Model Chatbot Responses to Patient Questions About Emergency Care: Experimental Comparative Study",
@@ -2650,7 +2958,9 @@
                 "pmc": "PMC11574488",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39496149/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Written communication of whole genome sequencing results in the NHS Genomic Medicine Service: a multi-centre service evaluation",
@@ -2664,7 +2974,9 @@
                 "pmc": "PMC11576903",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38806663/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability Metrics in Patient Education: Where Do We Innovate?",
@@ -2678,7 +2990,9 @@
                 "pmc": "PMC11586978",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39585011/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Analysis of internet educational websites on tobacco cessation: A content analysis",
@@ -2696,7 +3010,9 @@
                 "pmc": "PMC11607478",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11607478/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Navigating pancreas transplant perceptions: assessing public sentiment and strategies using AI-driven analysis",
@@ -2713,7 +3029,9 @@
                 "pmc": "PMC11638235",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638235/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating the Appropriateness, Consistency, and Readability of ChatGPT in Critical Care Recommendations",
@@ -2727,7 +3045,9 @@
                 "pmc": "PMC11639400",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39118320/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Exploring the Role of Large Language Models in Melanoma: A Systematic Review",
@@ -2741,7 +3061,9 @@
                 "pmc": "PMC11642440",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11642440/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Utilization of Artificial Intelligence to Improve Equitable Healthcare Access for Breast Implant Patients",
@@ -2756,7 +3078,9 @@
                 "pmc": "PMC11646116",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11646116/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Quality and readability of web-based Arabic health information on COVID-19: an infodemiological study",
@@ -2774,7 +3098,9 @@
                 "pmc": "PMC7812558",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33461516/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Brain Injury Screening Tool (BIST): Tool development, factor structure and validity",
@@ -2788,7 +3114,9 @@
                 "pmc": "PMC7861451",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33539482/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Quality and readability of web-based Arabic health information on periodontal disease",
@@ -2805,7 +3133,9 @@
                 "pmc": "PMC7863442",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33541345/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of MicroScan Bacterial Identification Panels for Low-Resource Settings",
@@ -2819,7 +3149,9 @@
                 "pmc": "PMC7922174",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33669829/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Written Informed Consent\u2014Translating into Plain Language. A Pilot Study",
@@ -2833,7 +3165,9 @@
                 "pmc": "PMC7924197",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33672624/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "HyperBeta: characterizing the structural dynamics of proteins and self-assembling peptides",
@@ -2847,7 +3181,9 @@
                 "pmc": "PMC8032683",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33833280/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Readability of Patient Education Materials Pertaining to Gastrointestinal Procedures",
@@ -2864,7 +3200,9 @@
                 "pmc": "PMC8035024",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33869107/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Transjugular intrahepatic portosystemic shunt (TIPS) procedure: an assessment of the quality and readability of online information",
@@ -2881,7 +3219,9 @@
                 "pmc": "PMC8101024",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33952225/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Value of Web-Based Patient Education Materials on Transarterial Chemoembolization: Systematic Review",
@@ -2900,7 +3240,9 @@
                 "pmc": "PMC8140383",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33960948/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and Content Validation of an Instrument to Measure Medication Self-Management in Older Adults",
@@ -2914,7 +3256,9 @@
                 "pmc": "PMC8167785",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33920490/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "An objective analysis of quality and readability of online information on COVID-19",
@@ -2928,7 +3272,9 @@
                 "pmc": "PMC8222704",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34189011/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A Web Interface for Antibiotic Prescription Recommendations in Primary Care: User-Centered Design Approach",
@@ -2946,7 +3292,9 @@
                 "pmc": "PMC8235275",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34114958/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Decision aids linked to evidence summaries and clinical practice guidelines: results from user-testing in clinical encounters",
@@ -2964,7 +3312,9 @@
                 "pmc": "PMC8240084",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34187484/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Creation and Worldwide Utilisation of New COVID-19 Online Information Hub for Genetics Health Professionals, Patients and Families",
@@ -2978,7 +3328,9 @@
                 "pmc": "PMC8296805",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34305996/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Spanish Translation and Cultural Adaptation of the Fibromyalgia Knowledge Questionnaire",
@@ -2992,7 +3344,9 @@
                 "pmc": "PMC8305758",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34300129/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and Validation of an Italian Adaptation of the Psychosocial Aspects of Hereditary Cancer Questionnaire",
@@ -3006,7 +3360,9 @@
                 "pmc": "PMC8329440",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34354641/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A Policy-Driven Approach to Secure Extraction of COVID-19 Data From Research Papers",
@@ -3020,7 +3376,9 @@
                 "pmc": "PMC8387600",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34458724/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Predicting Health Material Accessibility: Development of Machine Learning Algorithms",
@@ -3038,7 +3396,9 @@
                 "pmc": "PMC8444043",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34468321/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The impact of a computerized physician order entry system implementation on 20 different criteria of medication documentation\u2014a before-and-after study",
@@ -3056,7 +3416,9 @@
                 "pmc": "PMC8504043",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34635100/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Open notes sounds great, but will a provider\u2019s documentation\nchange? An exploratory study of the effect of open notes on oncology\ndocumentation",
@@ -3074,7 +3436,9 @@
                 "pmc": "PMC8518311",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34661067/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of patient education materials related to radiation safety: What are the implications for patient-centred radiology care?",
@@ -3092,7 +3456,9 @@
                 "pmc": "PMC8531160",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34674063/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A Comprehensive Evaluation of the Readability of Online Healthcare Materials Regarding Distal Radius Fractures",
@@ -3115,7 +3481,9 @@
                 "pmc": "PMC8532190",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34707959/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Automatic Diagnosis of Mental Healthcare Information Actionability: Developing Binary Classifiers",
@@ -3129,7 +3497,9 @@
                 "pmc": "PMC8536017",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34682483/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Role of Physicians in Digitalizing Health Care Provision: Web-Based Survey Study",
@@ -3147,7 +3517,9 @@
                 "pmc": "PMC8663562",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34545813/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability and Comprehension of Printed Patient Education Materials",
@@ -3165,7 +3537,9 @@
                 "pmc": "PMC8670754",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34917569/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Laparoscopic Cholecystectomy: Evaluation of Web-Based Information",
@@ -3186,7 +3560,9 @@
                 "pmc": "PMC8722460",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35004076/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "An Analysis of US Academic Medical Center Websites: Usability Study",
@@ -3204,7 +3580,9 @@
                 "pmc": "PMC8734930",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34932015/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Predicting the impact of online news articles \u2013 is information necessary?",
@@ -3218,7 +3596,9 @@
                 "pmc": "PMC8742664",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35035262/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Audit on nursing notes in a psychiatry in-patient setting",
@@ -3235,7 +3615,9 @@
                 "pmc": "PMC8770045",
                 "pub_year": "2021",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8770045/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A prescription of information \u2013 promoting symptom self-management in people with functional neurological disorder (FND)",
@@ -3252,7 +3634,9 @@
                 "pmc": "PMC8770079",
                 "pub_year": "2021",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8770079/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Co-Designing a New Yoga-Based Mindfulness Intervention for Survivors of Stroke: A Formative Evaluation",
@@ -3266,7 +3650,9 @@
                 "pmc": "PMC8788460",
                 "pub_year": "2021",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8788460/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Optimizing Readability and Format of Plain Language Summaries for Medical Research Articles: Cross-sectional Survey Study",
@@ -3285,7 +3671,9 @@
                 "pmc": "PMC8790687",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35014966/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Online Patient Education Materials Related to Lipoprotein(a): Readability Assessment",
@@ -3303,7 +3691,9 @@
                 "pmc": "PMC8790699",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35014955/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "78696 A Qualitative Cross-Sectional Study of Leadership in a Pandemic: What do Students Value?",
@@ -3317,7 +3707,9 @@
                 "pmc": "PMC8827770",
                 "pub_year": "2021",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8827770/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Online Information on Painful Sexual Dysfunction in Women: Quality Analysis of Websites in SPANISH about Dyspareunia, Vaginismus and Vulvodynia",
@@ -3331,7 +3723,9 @@
                 "pmc": "PMC8834735",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8834735/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "How have governments supported citizens stranded abroad due to COVID-19 travel restrictions? A comparative analysis of the financial and health support in eleven countries",
@@ -3349,7 +3743,9 @@
                 "pmc": "PMC8858437",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35184735/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Coarse-Grained Neural Network Model of the Basal Ganglia to Simulate Reinforcement Learning Tasks",
@@ -3363,7 +3759,9 @@
                 "pmc": "PMC8870197",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8870197/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Quality and Reliability of Information in the Summaries of Product Characteristics",
@@ -3377,7 +3775,9 @@
                 "pmc": "PMC8872284",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8872284/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of the Readability and Quality of Online Patient Education Material for Chronic Medical Conditions",
@@ -3391,7 +3791,9 @@
                 "pmc": "PMC8872454",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8872454/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of Korean-Language COVID-19 Information from the South Korean National COVID-19 Portal Intended for the General Public: Cross-sectional Infodemiology Study",
@@ -3409,7 +3811,9 @@
                 "pmc": "PMC8896563",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35072633/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Patient-facing genetic and genomic mobile apps in the UK: a systematic review of content, functionality, and quality",
@@ -3424,7 +3828,9 @@
                 "pmc": "PMC8941009",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35182377/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of the Readability of Web-Based Patient Education Material From Major Canadian Pediatric Associations: Cross-sectional Study",
@@ -3442,7 +3848,9 @@
                 "pmc": "PMC8968558",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35293875/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Quality and readability of online patient information on treatment for erectile dysfunction",
@@ -3460,7 +3868,9 @@
                 "pmc": "PMC8988690",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35474701/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Masked emotions: Do face mask patterns and colors affect the recognition of emotions?",
@@ -3474,7 +3884,9 @@
                 "pmc": "PMC8990494",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35394218/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and usability of a web-based patient-tailored tool to support adherence to urate-lowering therapy in gout",
@@ -3492,7 +3904,9 @@
                 "pmc": "PMC8991610",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8991610/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating the Impacts of Patient Engagement on Health Services Research Teams: Lessons from the Veteran Consulting Network",
@@ -3513,7 +3927,9 @@
                 "pmc": "PMC8993982",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35349028/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Extract, transform, load framework for the conversion of health databases to OMOP",
@@ -3527,7 +3943,9 @@
                 "pmc": "PMC9000122",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9000122/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "From the United Kingdom to Australia\u2014Adapting a Web-Based Self-management Education Program to Support the Management of Type 2 Diabetes: Tutorial",
@@ -3541,7 +3959,9 @@
                 "pmc": "PMC9069279",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35442198/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of English, German, and Russian Disease-Related Wikipedia Pages: Automated Computational Analysis",
@@ -3559,7 +3979,9 @@
                 "pmc": "PMC9152717",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35576562/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of an online text simplification editor using manual and automated metrics for perceived and actual text difficulty",
@@ -3578,7 +4000,9 @@
                 "pmc": "PMC9155254",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9155254/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Diabetes in the News: Readability Analysis of Malaysian Diabetes Corpus",
@@ -3592,7 +4016,9 @@
                 "pmc": "PMC9180217",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9180217/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and Validation of a Clinical Practicum Assessment Tool for the NAACLS-Accredited Biomedical Science Program",
@@ -3606,7 +4032,9 @@
                 "pmc": "PMC9180805",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9180805/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Online Patient Education Materials for Common Sports Injuries Are Written at Too-High of a Reading Level: A Systematic Review",
@@ -3624,7 +4052,9 @@
                 "pmc": "PMC9210373",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9210373/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Osteoporotic Vertebral Fractures: An Analysis of Readability and Quality of Web-Based information",
@@ -3647,7 +4077,9 @@
                 "pmc": "PMC9288661",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9288661/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Readability of Anesthesia-Related Patient Education Materials from Major Anesthesiology Organizations",
@@ -3664,7 +4096,9 @@
                 "pmc": "PMC9300304",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9300304/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A Novel Decision Aid Improves Quality of Reproductive Decision-Making and Pregnancy Knowledge for Women with Inflammatory Bowel Disease",
@@ -3683,7 +4117,9 @@
                 "pmc": "PMC9352739",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35499712/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Validating the knowledge bank approach for personalized prediction of survival in acute myeloid leukemia: a reproducibility study",
@@ -3698,7 +4134,9 @@
                 "pmc": "PMC9360099",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35429300/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "How Readable Are Consultant Psychiatrist Letters From the Mental Health Liaison Team?",
@@ -3715,7 +4153,9 @@
                 "pmc": "PMC9380079",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9380079/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluation of Medical Information on Male Sexual Dysfunction on Baidu Encyclopedia and Wikipedia: Comparative Study",
@@ -3733,7 +4173,9 @@
                 "pmc": "PMC9399830",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35943768/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Computer-generated structured electronic medical records are preferable to conventional medical records for patients with acute abdominal pain - a prospective, double-blinded study",
@@ -3750,7 +4192,9 @@
                 "pmc": "PMC9411218",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36008740/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Conclusiveness, linguistic characteristics and readability of Cochrane plain language summaries of intervention reviews: a cross-sectional study",
@@ -3768,7 +4212,9 @@
                 "pmc": "PMC9464378",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9464378/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Proximal Humerus Fracture: An Evaluation of the Readability and Value of Web-Based Knowledge",
@@ -3789,7 +4235,9 @@
                 "pmc": "PMC9465624",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9465624/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Analyzing Suicide Risk From Linguistic Features in Social Media: Evaluation Study",
@@ -3807,7 +4255,9 @@
                 "pmc": "PMC9472054",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36040781/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Phantom Study on the Robustness of MR Radiomics Features: Comparing the Applicability of 3D Printed and Biological Phantoms",
@@ -3821,7 +4271,9 @@
                 "pmc": "PMC9497898",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497898/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Validation of Three MicroScan\u00ae Antimicrobial Susceptibility Testing Plates Designed for Low-Resource Settings",
@@ -3835,7 +4287,9 @@
                 "pmc": "PMC9497938",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497938/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Current Quality of Web-Based Information on the Treatment of Bipolar Disorder: A Systematic Search",
@@ -3849,7 +4303,9 @@
                 "pmc": "PMC9501527",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9501527/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and Validation of the Minnesota Assessment of Pharmacogenomic Literacy (MAPL)",
@@ -3863,7 +4319,9 @@
                 "pmc": "PMC9506235",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506235/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Three dimensional analysis of hip joint reaction force using Q Hip Force (AQHF) software: Implication as a diagnostic tool",
@@ -3877,7 +4335,9 @@
                 "pmc": "PMC9512223",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9512223/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comparison of online health information between different digital platforms for pelvic organ prolapse",
@@ -3895,7 +4355,9 @@
                 "pmc": "PMC9512708",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36006445/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Decision Support Tools for Coronary Artery Calcium Scoring in the Primary Prevention of Cardiovascular Disease Do Not Meet Health Literacy Needs: A Systematic Environmental Scan and Evaluation",
@@ -3909,7 +4371,9 @@
                 "pmc": "PMC9517328",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36141978/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Nursing Teaching Curriculum Setting by Introducing Postcompetency Model under the Vision of Internet Informatization",
@@ -3923,7 +4387,9 @@
                 "pmc": "PMC9534662",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9534662/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Lexical simplification benchmarks for English, Portuguese, and Spanish",
@@ -3937,7 +4403,9 @@
                 "pmc": "PMC9536312",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9536312/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Do chiropractic interns use clinical practice guidelines when managing patients with neck pain in France? A feasibility study",
@@ -3956,7 +4424,9 @@
                 "pmc": "PMC9548113",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36209083/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development, Validity, and Reliability of the Perceived Telemedicine Importance, Disadvantages, and Barriers (PTIDB) Questionnaire for Egyptian Healthcare Professionals",
@@ -3970,7 +4440,9 @@
                 "pmc": "PMC9566010",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9566010/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of Online Written Medication Educational Resources for People Living With Heart Failure",
@@ -3987,7 +4459,9 @@
                 "pmc": "PMC9568683",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9568683/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability assessment of patient educational materials for pediatric spinal deformity from top academic orthopedic institutions",
@@ -4006,7 +4480,9 @@
                 "pmc": "PMC9579064",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35819724/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Credibility, Accuracy, and Comprehensiveness of Readily Available Internet-Based Information on Treatment and Management of Peripheral Artery Disease and Intermittent Claudication: Review",
@@ -4024,7 +4500,9 @@
                 "pmc": "PMC9623463",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36251363/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Quality of Online Information for the Treatment of Knee Osteoarthritis: A Google Study",
@@ -4045,7 +4523,9 @@
                 "pmc": "PMC9636897",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36381839/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Evaluation of the Informational Content, Readability, and Quality of Online Information Related to Vitiligo in the Arabic Language",
@@ -4068,7 +4548,9 @@
                 "pmc": "PMC9674206",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9674206/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Risks Associated With Computed Tomography Scans: An Assessment of the Readability and Reliability of Online Text Available for Patient Information and Guidance",
@@ -4091,7 +4573,9 @@
                 "pmc": "PMC9700557",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9700557/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Medical Text Simplification Using Reinforcement Learning (TESLEA): Deep Learning\u2013Based Text Simplification Approach",
@@ -4109,7 +4593,9 @@
                 "pmc": "PMC9719064",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36399375/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Item format statistics and readability of extended matching questions as an effective tool to assess medical students",
@@ -4123,7 +4609,9 @@
                 "pmc": "PMC9723123",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36470965/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Visualizing knowledge evolution trends and research hotspots of artificial intelligence in colorectal cancer: A bibliometric analysis",
@@ -4140,7 +4628,9 @@
                 "pmc": "PMC9742812",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9742812/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Impact of Popular Science Articles by Physicians on Their Performance on Online Medical Platforms",
@@ -4154,7 +4644,9 @@
                 "pmc": "PMC9777991",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9777991/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Availability of Readable Online Spanish Rhinosinusitis Outcome Measures",
@@ -4168,7 +4660,9 @@
                 "pmc": "PMC9782990",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36555979/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Co-design and Development of EndoSMS, a Supportive Text Message Intervention for Individuals Living With Endometriosis: Mixed Methods Study",
@@ -4186,7 +4680,9 @@
                 "pmc": "PMC9789499",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36485029/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving the quality of medical records",
@@ -4205,7 +4701,9 @@
                 "pmc": "PMC9831581",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9831581/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development of Educational Print Materials for Physical Activity in Cancer: Evaluation of Readability and Suitability",
@@ -4219,7 +4717,9 @@
                 "pmc": "PMC9852108",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34523076/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Growing Taller without Hormones? Dr. Consult Google\u2014An Evaluation of Online Information Related to Limb Lengthening",
@@ -4233,7 +4733,9 @@
                 "pmc": "PMC9858970",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9858970/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Contactless, autonomous robotic alignment of optical coherence tomography for in vivo evaluation of diseased retinas",
@@ -4247,7 +4749,9 @@
                 "pmc": "PMC9882601",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36711930/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Notebook of experiences: a therapeutic resource in educational audiology",
@@ -4265,7 +4769,9 @@
                 "pmc": "PMC9886119",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35019064/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability and topics of the German Health Web: Exploratory study and text analysis",
@@ -4283,7 +4789,9 @@
                 "pmc": "PMC9916670",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36763573/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Metal Artifact Reduction in Dental CBCT Images Using Direct Sinogram Correction Combined with Metal Path-Length Weighting",
@@ -4297,7 +4805,9 @@
                 "pmc": "PMC9919069",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36772330/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Websites about, not for, adolescents? A systematic analysis of online fertility preservation information for adolescent and young adult cancer patients",
@@ -4315,7 +4825,9 @@
                 "pmc": "PMC9949230",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36824765/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Complexity of Online Patient Education Materials About Interventional Neuroradiology Procedures Published by Major Academic Institutions",
@@ -4336,7 +4848,9 @@
                 "pmc": "PMC9962712",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9962712/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Online Health Information for Penile Prosthesis Implants Lacks Quality and Is Unreadable to the Average US Patient",
@@ -4353,7 +4867,9 @@
                 "pmc": "PMC9964715",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9964715/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Analysis of the Readability and Accountability of Online Patient Education Materials Related to Glaucoma Diagnosis and Treatment",
@@ -4370,7 +4886,9 @@
                 "pmc": "PMC10008728",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10008728/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A critical readability and quality analysis of internet\u2010based patient information on neck dissections",
@@ -4388,7 +4906,9 @@
                 "pmc": "PMC10050963",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10050963/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving efficiency, confidence, and readability in ECG interpretation; the role of signal processing",
@@ -4408,7 +4928,9 @@
                 "pmc": "PMC10206719",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10206719/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Simulated anesthesia consent discussions demonstrate high level of comprehension and education requirements for patients: A pilot study",
@@ -4426,7 +4948,9 @@
                 "pmc": "PMC10194181",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10194181/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development and psychometric appraisal of Head Nurse Research Leadership Scale",
@@ -4444,7 +4968,9 @@
                 "pmc": "PMC10077399",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36622948/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Writing strategies for improving the access of medical literature",
@@ -4458,7 +4984,9 @@
                 "pmc": "PMC10308323",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10308323/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Perspectives From a Career in Breastfeeding Research, Mentorship, and Advocacy: An Interview With Karen Wambach",
@@ -4472,7 +5000,9 @@
                 "pmc": "PMC10115926",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36891645/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability assessment of patient educational materials for pediatric spinal conditions from top academic orthopedic institutions",
@@ -4490,7 +5020,9 @@
                 "pmc": "PMC10242376",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242376/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of Reading Level of Result Letters Sent to Patients from an Academic Primary Care Practice",
@@ -4508,7 +5040,9 @@
                 "pmc": "PMC10134153",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10134153/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating the readability, quality and reliability of online patient education materials on transcutaneuous electrical nerve stimulation (TENS)",
@@ -4522,7 +5056,9 @@
                 "pmc": "PMC10118348",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10118348/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Impact of clinical expertise and choice of wearable device on accuracy to detect atrial fibrillation via single-lead ECGs",
@@ -4542,7 +5078,9 @@
                 "pmc": "PMC10207389",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10207389/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "TANGO: Development of Consumer Information Leaflets to Support TAperiNG of Opioids in Older Adults with Low Back Pain and Hip and Knee Osteoarthritis",
@@ -4563,7 +5101,9 @@
                 "pmc": "PMC10040925",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36972011/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Poster 307: A Standardized Method that Improves Readability of Patient Education Materials in Sports Medicine Knee Injuries",
@@ -4580,7 +5120,9 @@
                 "pmc": "PMC10392504",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10392504/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Online resources for information on shoulder arthroplasty: an assessment of quality and readability",
@@ -4598,7 +5140,9 @@
                 "pmc": "PMC10497924",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37607858/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "FRI401 Co-creating Patient-facing Materials For Primary Ovarian Insufficiency",
@@ -4615,7 +5159,9 @@
                 "pmc": "PMC10555954",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10555954/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Readability and reliability of online patient education materials about statins",
@@ -4632,7 +5178,9 @@
                 "pmc": "PMC10562660",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10562660/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Initial Steps in Creating a Patient-Centric Addendum to Clinical Trial Informed Consent Forms",
@@ -4649,7 +5197,9 @@
                 "pmc": "PMC10568273",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10568273/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "How readable and quality are online patient education materials about Helicobacter pylori?: Assessment of the readability, quality and reliability",
@@ -4663,7 +5213,9 @@
                 "pmc": "PMC10615431",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10615431/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Health literacy in rotator cuff repair: a quantitative assessment of the understandability of online patient education material",
@@ -4680,7 +5232,9 @@
                 "pmc": "PMC10638567",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10638567/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of readability levels of online patient education materials for female pelvic floor disorders",
@@ -4694,7 +5248,9 @@
                 "pmc": "PMC10754616",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10754616/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Development of text messages for primary prevention of cardiovascular disease in persons with HIV",
@@ -4711,7 +5267,9 @@
                 "pmc": "PMC10787147",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10787147/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the readability of online information about jones fracture",
@@ -4729,7 +5287,9 @@
                 "pmc": "PMC10789098",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10789098/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Spanish Translation and Cultural Adaptations of Physical Therapy Parent Educational Materials for Use in Neonatal Intensive Care",
@@ -4746,7 +5306,9 @@
                 "pmc": "PMC10790584",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38229765/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "ChatGPT: Is This Patient Education Tool for Urological Malignancies Readable for the General Population?",
@@ -4763,7 +5325,9 @@
                 "pmc": "PMC10800281",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38259300/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Health Literacy Analytics of Accessible Patient Resources in Cardiovascular Medicine: What are Patients Wanting to Know?",
@@ -4780,7 +5344,9 @@
                 "pmc": "PMC10829858",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38298385/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Artificial Intelligence as a Triage Tool during the Perioperative Period: Pilot Study of Accuracy and Accessibility for Clinical Application",
@@ -4797,7 +5363,9 @@
                 "pmc": "PMC10836902",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10836902/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Validation of ChatGPT 3.5 as a Tool to Optimize Readability of Patient-facing Craniofacial Education Materials",
@@ -4814,7 +5382,9 @@
                 "pmc": "PMC10836906",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10836906/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluation of information from artificial intelligence on rotator cuff repair surgery",
@@ -4831,7 +5401,9 @@
                 "pmc": "PMC10837709",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837709/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Elderly users\u2019 perceptions of signage systems from tertiary hospitals in Guangzhou",
@@ -4845,7 +5417,9 @@
                 "pmc": "PMC10840000",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38317991/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Arabic websites assessment of irritable bowel syndrome: How trustworthy are they? A cross\u2010sectional study",
@@ -4863,7 +5437,9 @@
                 "pmc": "PMC10845817",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38323123/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Automated Deep Learning Segmentation of Cardiac Inflammatory FDG PET",
@@ -4880,7 +5456,9 @@
                 "pmc": "PMC10863008",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38352354/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Clear as Mud: Readability Scores in Cloacal Exstrophy Literature and Its Treatment",
@@ -4897,7 +5475,9 @@
                 "pmc": "PMC10871133",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10871133/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of Knowledge and Practice of Healthcare Providers in Saudi Arabia Regarding Clostridioides difficile Infection Diagnosis and Management: A Cross-Sectional Questionnaire-Based Study",
@@ -4914,7 +5494,9 @@
                 "pmc": "PMC10875178",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38375099/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Application of generative language models to orthopaedic practice",
@@ -4932,7 +5514,9 @@
                 "pmc": "PMC10941106",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38485486/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Patient-Directed Vasectomy Information: How Readable Is It?",
@@ -4949,7 +5533,9 @@
                 "pmc": "PMC10949024",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37853530/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of Patient Electronic Materials for Atopic Dermatitis in 23 Languages: Analysis and Implications for Dermatologists",
@@ -4966,7 +5552,9 @@
                 "pmc": "PMC10965833",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38402338/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Adaptation and Validation of a Questionnaire to Measure Satisfaction With Telephone Care Among Individuals Living With Inflammatory Bowel Disease",
@@ -4984,7 +5572,9 @@
                 "pmc": "PMC10999769",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38596801/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Hidradenitis Suppurativa Online Documents Readability: An Analysis Including 23 European Languages",
@@ -5001,7 +5591,9 @@
                 "pmc": "PMC11032155",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11032155/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Organ Donation in Canadian PICUs: A Cross-Sectional Survey, 2021\u20132022*",
@@ -5020,7 +5612,9 @@
                 "pmc": "PMC11060061",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37966310/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Use and Utility of Patient After\u2010Visit Instructions at a University Rheumatology Outpatient Clinic: Status and Randomized Prospective Pilot Intervention Study",
@@ -5037,7 +5631,9 @@
                 "pmc": "PMC11089441",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38387613/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Performance of an online chat-based artificial intelligence interface for patient education on atrial fibrillation ablation",
@@ -5056,7 +5652,9 @@
                 "pmc": "PMC11118149",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11118149/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Assessing the readability, reliability, and quality of artificial intelligence chatbot responses to the 100 most searched queries about cardiopulmonary resuscitation: An observational study",
@@ -5070,7 +5668,9 @@
                 "pmc": "PMC11142831",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11142831/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Quality of Popular Online Resources About Vestibular Migraine",
@@ -5090,7 +5690,9 @@
                 "pmc": "PMC11250137",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39015736/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating Readability, Understandability, and Actionability of Online Printable Patient Education Materials for Cholesterol Management: A Systematic Review",
@@ -5106,7 +5708,9 @@
                 "pmc": "PMC11262522",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38567668/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Is Arabic online patient-centered information about dental extraction trustworthy? An infodemiological study",
@@ -5123,7 +5727,9 @@
                 "pmc": "PMC11271091",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39055782/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Best practices on patient education materials in hip surgery based on learnings from major hip centers and societies",
@@ -5138,7 +5744,9 @@
                 "pmc": "PMC11272639",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272639/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of readability, reliability, and quality of ChatGPT\u00ae, BARD\u00ae, Gemini\u00ae, Copilot\u00ae, Perplexity\u00ae responses on palliative care",
@@ -5152,7 +5760,9 @@
                 "pmc": "PMC11332738",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39151545/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Disambiguation of acronyms in clinical narratives with large language models",
@@ -5170,7 +5780,9 @@
                 "pmc": "PMC11339513",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38917444/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Performance of large language models (LLMs) in providing prostate cancer information",
@@ -5188,7 +5800,9 @@
                 "pmc": "PMC11342655",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11342655/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Practices and Barriers in Developing and Disseminating Plain-Language Resources Reporting Medical Research Information: A Scoping Review",
@@ -5206,7 +5820,9 @@
                 "pmc": "PMC11343906",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38878237/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "An assessment of ChatGPT\u2019s responses to frequently asked questions about cervical and breast cancer",
@@ -5224,7 +5840,9 @@
                 "pmc": "PMC11367894",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11367894/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating the Accuracy, Quality, and Readability of Online Breast Cancer Information",
@@ -5242,7 +5860,9 @@
                 "pmc": "PMC11415127",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11415127/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the reliability and readability of migraine treatment information on Turkish websites",
@@ -5260,7 +5880,9 @@
                 "pmc": "PMC11430538",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11430538/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of super resolution technology for digestive endoscopic images",
@@ -5277,7 +5899,9 @@
                 "pmc": "PMC11489312",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11489312/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of the Appropriateness and Readability of ChatGPT-4 Responses to Patient Queries on Uveitis",
@@ -5298,7 +5922,9 @@
                 "pmc": "PMC11492124",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39435137/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Can ChatGPT affect health literacy?",
@@ -5318,7 +5944,9 @@
                 "pmc": "PMC11518226",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11518226/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "IVC filter \u2013 assessing the readability and quality of patient information on the Internet",
@@ -5335,7 +5963,9 @@
                 "pmc": "PMC11523360",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/37898304/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comparison of Large Language Models in Diagnosis and Management of Challenging Clinical Cases",
@@ -5353,7 +5983,9 @@
                 "pmc": "PMC11568767",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39555212/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Exploring the opportunities of large language models for summarizing palliative care consultations: A pilot comparative study",
@@ -5370,7 +6002,9 @@
                 "pmc": "PMC11577459",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39569395/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Analysis of informed consent documents for compliance with ICMR guidelines for biomedical and health research",
@@ -5388,7 +6022,9 @@
                 "pmc": "PMC11584158",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584158/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Digesting Digital Health: A Study of Appropriateness and Readability of ChatGPT-Generated Gastroenterological Information",
@@ -5405,7 +6041,9 @@
                 "pmc": "PMC11596446",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39212302/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Impact of Demographic Modifiers on Readability of Myopia Education Materials Generated by Large Language Models",
@@ -5422,7 +6060,9 @@
                 "pmc": "PMC11625417",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11625417/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "It takes a village to raise a child- A multidisciplinary approach to promoting paediatric health literacy in cystic fibrosis",
@@ -5439,7 +6079,9 @@
                 "pmc": "PMC11633313",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11633313/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Enhancing Multilingual Patient Education: ChatGPT's Accuracy and Readability for SSNHL Queries in English and Spanish",
@@ -5459,7 +6101,9 @@
                 "pmc": "PMC11633712",
                 "pub_year": "2024",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/39664064/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating Quality and Readability of AI-generated Information on Living Kidney Donation",
@@ -5476,7 +6120,9 @@
                 "pmc": "PMC11634323",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11634323/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "P022 How well are we communicating the complications of adenotonsillectomy in children for sleep disordered breathing \u2013 a longitudinal analysis of medical information on the internet in Australia.",
@@ -5496,7 +6142,9 @@
                 "pmc": "PMC11646008",
                 "pub_year": "2024",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11646008/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Pharmacists\u2019 perception of educational material to improve patient safety",
@@ -5514,7 +6162,9 @@
                 "pmc": "PMC7982216",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33725997/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Readability of Medicine Information Materials: The Case of Tikur Anbessa Specialized Hospital \u2013 Mixed Approach",
@@ -5532,7 +6182,9 @@
                 "pmc": "PMC7997408",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33790543/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of Patient Education Materials From High-Impact Medical Journals: A 20-Year Analysis",
@@ -5546,7 +6198,9 @@
                 "pmc": "PMC8205335",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34179407/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Patient-reported outcome measures in ophthalmology: too difficult to read?",
@@ -5563,7 +6217,9 @@
                 "pmc": "PMC8208024",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34212114/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Availability and readability of online patient information on clubfoot: assessment of paediatric hospital clubfoot web pages",
@@ -5582,7 +6238,9 @@
                 "pmc": "PMC8223082",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34211606/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of the Octreotide Acetate Pen Injector in a Formative Human Factors Study",
@@ -5597,7 +6255,9 @@
                 "pmc": "PMC8265737",
                 "pub_year": "2021",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8265737/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The use of the Gunning Fog Index to evaluate the readability of Polish and English drug leaflets in the context of Health Literacy challenges in Medical Linguistics: An exploratory study",
@@ -5609,7 +6269,9 @@
                 "pmc": "PMC8277010",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33140389/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation of quality and readability of online patient information on osteoporosis and osteoporosis drug treatment and recommendations for improvement",
@@ -5628,7 +6290,9 @@
                 "pmc": "PMC8376728",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33501570/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Accuracy, Quality, and Readability of Patient Accessible Online Resources Regarding Ocular Gene Therapy and Voretigene Neparvovec",
@@ -5645,7 +6309,9 @@
                 "pmc": "PMC8455297",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34556973/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Health Services: A Mixed Methods Assessment of Canadian Cancer Patient Education Materials Related to the 2019 Novel Coronavirus",
@@ -5659,7 +6325,9 @@
                 "pmc": "PMC8482715",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33563050/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Institutional improvements in readability of written informed consent forms sustained post-revised Common Rule",
@@ -5673,7 +6341,9 @@
                 "pmc": "PMC8596070",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34849266/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "BMJ HCI launches partnership programme for patients and carers as authors and peer reviewers",
@@ -5687,7 +6357,9 @@
                 "pmc": "PMC8609930",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34799412/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Are English-language online patient education materials related to breast cancer risk assessment understandable, readable, and actionable?",
@@ -5704,7 +6376,9 @@
                 "pmc": "PMC8665407",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34894464/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of Online Foot & Ankle Patient Resources",
@@ -5722,7 +6396,9 @@
                 "pmc": "PMC8793614",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35097654/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Four reasons why too many informed consents to clinical research are invalid: a critical analysis of current practices",
@@ -5738,7 +6414,9 @@
                 "pmc": "PMC8900041",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35246415/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessment of the readability and quality of online patient education materials for the medical treatment of open-angle glaucoma",
@@ -5755,7 +6433,9 @@
                 "pmc": "PMC8961144",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8961144/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Older adult and family caregiver experiences with prescription medication labels and their suggestions for label improvement",
@@ -5773,7 +6453,9 @@
                 "pmc": "PMC9029911",
                 "pub_year": "2021",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9029911/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Chinese version of the revised Diabetes Distress Scale for adults with type 2 diabetes: Translation and validation study",
@@ -5790,7 +6472,9 @@
                 "pmc": "PMC9052264",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9052264/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A Health Communication Assessment of Web-based Obstructive Sleep Apnea Patient Education Materials",
@@ -5808,7 +6492,9 @@
                 "pmc": "PMC9131885",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131885/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Comparison of innovative communication approaches in nutrition to promote and improve health literacy",
@@ -5823,7 +6509,9 @@
                 "pmc": "PMC9200103",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9200103/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Quality, Reliability, and Readability of Online Information on Dry Eye Disease",
@@ -5841,7 +6529,9 @@
                 "pmc": "PMC9273298",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35344972/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Can Patients Read, Understand, and Act on Online Resources for\nAnterior Cruciate Ligament Surgery?",
@@ -5860,7 +6550,9 @@
                 "pmc": "PMC9344126",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9344126/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Improving health literacy with mumps, measles and rubella (MMR) vaccination: comparison of the readability of MMR patient-facing literature and MMR scientific abstracts",
@@ -5877,7 +6569,9 @@
                 "pmc": "PMC9400405",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9400405/"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Readability of information imprinted in patient information leaflets (PILs) in Saudi Arabia: The case of antihypertensive medications",
@@ -5894,7 +6588,9 @@
                 "pmc": "PMC9513263",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9513263/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The quality and readability of online molar incisor hypomineralization patient education materials: a systematic analysis",
@@ -5912,7 +6608,9 @@
                 "pmc": "PMC9541321",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35075657/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Poor compliance documenting informed consent in trauma patients with distal radius fractures compared to elective total knee arthroplasty",
@@ -5930,7 +6628,9 @@
                 "pmc": "PMC9543849",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35588267/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability and quality levels of websites that contain written information about anterior cruciate ligament injury: A survey of Turkish websites",
@@ -5947,7 +6647,9 @@
                 "pmc": "PMC9612650",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35416158/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "LBODP043 Analysis Of Plastic Surgery Websites And Their Recommendations For Diabetics",
@@ -5963,7 +6665,9 @@
                 "pmc": "PMC9624660",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9624660/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Assessing the Accuracy, Quality, and Readability of Online Patient\nResources on Achilles Tendonitis",
@@ -5981,7 +6685,9 @@
                 "pmc": "PMC9703492",
                 "pub_year": "2022",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9703492/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Content and Readability of Online Recommendations for Breast Implant Size Selection",
@@ -5999,7 +6705,9 @@
                 "pmc": "PMC9872969",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9872969/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "How understandable are the patient education materials about flat foot on the Internet for parents?",
@@ -6013,7 +6721,9 @@
                 "pmc": "PMC9907911",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9907911/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Challenges encountered by pharmacy staff in using prescription medication labels during medication counselling with older adults and solutions employed: A mixed-methods study",
@@ -6030,7 +6740,9 @@
                 "pmc": "PMC9918413",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9918413/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Designing clinical guidelines that improve access and satisfaction in the emergency department",
@@ -6045,7 +6757,9 @@
                 "pmc": "PMC9990158",
                 "pub_year": "2023",
                 "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9990158/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluating the Spanish readability of American Society for Metabolic and Bariatric Surgery (ASMBS) Centers of Excellence (COE) websites",
@@ -6062,7 +6776,9 @@
                 "pmc": "PMC10010650",
                 "pub_year": "2023",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36914781/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Chest CT in COVID-19 patients: Structured vs conventional reporting",
@@ -6079,7 +6795,9 @@
                 "pmc": "PMC7917443",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33677417/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Burnout and the challenges facing pharmacists during COVID-19: results of a national survey",
@@ -6093,7 +6811,9 @@
                 "pmc": "PMC8043093",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/33851288/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of Participant Informed Consent Forms and Informational Documents",
@@ -6109,7 +6829,9 @@
                 "pmc": "PMC8173482",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34226027/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Information on the Internet about clear aligner treatment\u2014an assessment of content, quality, and readability",
@@ -6126,7 +6848,9 @@
                 "pmc": "PMC8284032",
                 "pub_year": "2021",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34269827/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Recognition efficiency of atypical cardiovascular readings on ECG devices through fogged goggles\u2606",
@@ -6140,7 +6864,9 @@
                 "pmc": "PMC8730785",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35013628/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "A Multimetric Readability Analysis of Online Patient Educational Materials for Submental Fat Reduction",
@@ -6158,7 +6884,9 @@
                 "pmc": "PMC8761512",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35037081/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Perpetuating Health Disparities of Minority Groups: The Role of U.S. Newspapers in the COVID-19 Pandemic",
@@ -6172,7 +6900,9 @@
                 "pmc": "PMC8777407",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35079295/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Understanding the landscape of web-based medical misinformation about vaccination",
@@ -6186,7 +6916,9 @@
                 "pmc": "PMC8981888",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35380412/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Investigation of the Readability and Reliability of Online Health Information for Cancer Patients During the Coronavirus Pandemic",
@@ -6200,7 +6932,9 @@
                 "pmc": "PMC9038169",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35469115/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "An Evaluation of the Quality of COVID-19 Internet Resources for Cancer Patients",
@@ -6215,7 +6949,9 @@
                 "pmc": "PMC9208828",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35726079/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "COVID-19 vaccinations: An overview of the Italian national health system's online communication from a citizen perspective",
@@ -6229,7 +6965,9 @@
                 "pmc": "PMC9349029",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/35987784/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Readability of online monkeypox patient education materials: Improved recognition of health literacy is needed for dissemination of infectious disease information",
@@ -6246,7 +6984,9 @@
                 "pmc": "PMC9770025",
                 "pub_year": "2022",
                 "url": "https://pubmed.ncbi.nlm.nih.gov/36564245/"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "The Fewer Splits are Better: Deconstructing Readability in Sentence Splitting",
@@ -6259,7 +6999,9 @@
                 "anthology_id": "2022.tsar-1.1",
                 "url": "https://aclanthology.org/2022.tsar-1.1",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Patient-friendly Clinical Notes: Towards a new Text Simplification Dataset",
@@ -6272,7 +7014,9 @@
                 "anthology_id": "2022.tsar-1.3",
                 "url": "https://aclanthology.org/2022.tsar-1.3",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Benchmarking the Simplification of Dutch Municipal Text",
@@ -6285,7 +7029,9 @@
                 "anthology_id": "2024.lrec-main.199",
                 "url": "https://aclanthology.org/2024.lrec-main.199",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Replace, Paraphrase or Fine-tune? Evaluating Automatic Simplification for Medical Texts in Spanish",
@@ -6298,7 +7044,9 @@
                 "anthology_id": "2024.lrec-main.1216",
                 "url": "https://aclanthology.org/2024.lrec-main.1216",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "ELiRF-VRAIN at BioLaySumm: Boosting Lay Summarization Systems Performance with Ranking Models",
@@ -6311,7 +7059,9 @@
                 "anthology_id": "2024.bionlp-1.68",
                 "url": "https://aclanthology.org/2024.bionlp-1.68",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "BioLay_AK_SS at BioLaySumm: Domain Adaptation by Two-Stage Fine-Tuning of Large Language Models used for Biomedical Lay Summary Generation",
@@ -6324,7 +7074,9 @@
                 "anthology_id": "2024.bionlp-1.69",
                 "url": "https://aclanthology.org/2024.bionlp-1.69",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "WisPerMed at BioLaySumm: Adapting Autoregressive Large Language Models for Lay Summarization of Scientific Articles",
@@ -6337,7 +7089,9 @@
                 "anthology_id": "2024.bionlp-1.70",
                 "url": "https://aclanthology.org/2024.bionlp-1.70",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "RAG-RLRC-LaySum at BioLaySumm: Integrating Retrieval-Augmented Generation and Readability Control for Layman Summarization of Biomedical Texts",
@@ -6350,7 +7104,9 @@
                 "anthology_id": "2024.bionlp-1.75",
                 "url": "https://aclanthology.org/2024.bionlp-1.75",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Team YXZ at BioLaySumm: Adapting Large Language Models for Biomedical Lay Summarization",
@@ -6363,7 +7119,9 @@
                 "anthology_id": "2024.bionlp-1.76",
                 "url": "https://aclanthology.org/2024.bionlp-1.76",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "ReproHum #0892-01: The painful route to consistent results: A reproduction study of human evaluation in NLG",
@@ -6376,7 +7134,9 @@
                 "anthology_id": "2024.humeval-1.24",
                 "url": "https://aclanthology.org/2024.humeval-1.24",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Paragraph-level Simplification of Medical Texts",
@@ -6389,7 +7149,9 @@
                 "anthology_id": "2021.naacl-main.395",
                 "url": "https://aclanthology.org/2021.naacl-main.395",
                 "pub_year": "2021"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Semi-automatic Construction of a Word Complexity Lexicon for Japanese Medical Terminology",
@@ -6402,7 +7164,9 @@
                 "anthology_id": "2024.clinicalnlp-1.29",
                 "url": "https://aclanthology.org/2024.clinicalnlp-1.29",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Benchmarking Automated Clinical Language Simplification: Dataset, Algorithm, and Evaluation",
@@ -6415,7 +7179,9 @@
                 "anthology_id": "2022.coling-1.313",
                 "url": "https://aclanthology.org/2022.coling-1.313",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "LARGEMED: A Resource for Identifying and Generating Paraphrases for French Medical Terms",
@@ -6428,7 +7194,9 @@
                 "anthology_id": "2024.determit-1.14",
                 "url": "https://aclanthology.org/2024.determit-1.14",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
@@ -6441,7 +7209,9 @@
                 "anthology_id": "2022.emnlp-main.724",
                 "url": "https://aclanthology.org/2022.emnlp-main.724",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Enhancing Biomedical Lay Summarisation with External Knowledge Graphs",
@@ -6454,7 +7224,9 @@
                 "anthology_id": "2023.emnlp-main.498",
                 "url": "https://aclanthology.org/2023.emnlp-main.498",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "BLESS: Benchmarking Large Language Models on Sentence Simplification",
@@ -6467,7 +7239,9 @@
                 "anthology_id": "2023.emnlp-main.821",
                 "url": "https://aclanthology.org/2023.emnlp-main.821",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Multilingual Simplification of Medical Texts",
@@ -6480,7 +7254,9 @@
                 "anthology_id": "2023.emnlp-main.1037",
                 "url": "https://aclanthology.org/2023.emnlp-main.1037",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Chinese Medical Speech Recognition with Punctuated Hypothesis",
@@ -6493,7 +7269,9 @@
                 "anthology_id": "2021.rocling-1.9",
                 "url": "https://aclanthology.org/2021.rocling-1.9",
                 "pub_year": "2021"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Evaluation Dataset for Japanese Medical Text Simplification",
@@ -6506,7 +7284,9 @@
                 "anthology_id": "2024.naacl-srw.23",
                 "url": "https://aclanthology.org/2024.naacl-srw.23",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Towards AI-supported Health Communication in Plain Language: Evaluating Intralingual Machine Translation of Medical Texts",
@@ -6519,7 +7299,9 @@
                 "anthology_id": "2024.cl4health-1.6",
                 "url": "https://aclanthology.org/2024.cl4health-1.6",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Large Language Models as Drug Information Providers for Patients",
@@ -6532,7 +7314,9 @@
                 "anthology_id": "2024.cl4health-1.7",
                 "url": "https://aclanthology.org/2024.cl4health-1.7",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain",
@@ -6545,7 +7329,9 @@
                 "anthology_id": "2024.emnlp-main.958",
                 "url": "https://aclanthology.org/2024.emnlp-main.958",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Readability Controllable Biomedical Document Summarization",
@@ -6558,7 +7344,9 @@
                 "anthology_id": "2022.findings-emnlp.343",
                 "url": "https://aclanthology.org/2022.findings-emnlp.343",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Document-level Text Simplification with Coherence Evaluation",
@@ -6571,7 +7359,9 @@
                 "anthology_id": "2023.tsar-1.9",
                 "url": "https://aclanthology.org/2023.tsar-1.9",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification",
@@ -6584,7 +7374,9 @@
                 "anthology_id": "2024.acl-long.234",
                 "url": "https://aclanthology.org/2024.acl-long.234",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Identifying Medical Paraphrases in Scientific versus Popularization Texts in French for Laypeople Understanding",
@@ -6597,7 +7389,9 @@
                 "anthology_id": "2022.sdp-1.8",
                 "url": "https://aclanthology.org/2022.sdp-1.8",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "GRASUM at BioLaySumm Task 1: Background Knowledge Grounding for Readable, Relevant, and Factual Biomedical Lay Summaries",
@@ -6610,7 +7404,9 @@
                 "anthology_id": "2023.bionlp-1.46",
                 "url": "https://aclanthology.org/2023.bionlp-1.46",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy Based Selection",
@@ -6623,7 +7419,9 @@
                 "anthology_id": "2023.bionlp-1.61",
                 "url": "https://aclanthology.org/2023.bionlp-1.61",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "NCUEE-NLP at BioLaySumm Task 2: Readability-Controlled Summarization of Biomedical Articles Using the PRIMERA Models",
@@ -6636,7 +7434,9 @@
                 "anthology_id": "2023.bionlp-1.62",
                 "url": "https://aclanthology.org/2023.bionlp-1.62",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization",
@@ -6649,7 +7449,9 @@
                 "anthology_id": "2023.bionlp-1.63",
                 "url": "https://aclanthology.org/2023.bionlp-1.63",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "IKM_Lab at BioLaySumm Task 1: Longformer-based Prompt Tuning for Biomedical Lay Summary Generation",
@@ -6662,7 +7464,9 @@
                 "anthology_id": "2023.bionlp-1.64",
                 "url": "https://aclanthology.org/2023.bionlp-1.64",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "MDC at BioLaySumm Task 1: Evaluating GPT Models for Biomedical Lay Summarization",
@@ -6675,7 +7479,9 @@
                 "anthology_id": "2023.bionlp-1.65",
                 "url": "https://aclanthology.org/2023.bionlp-1.65",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Simplification automatique de textes biom\u00e9dicaux en fran\u00e7ais: lorsque des donn\u00e9es pr\u00e9cises de petite taille aident (French Biomedical Text Simplification : When Small and Precise Helps )",
@@ -6688,7 +7494,9 @@
                 "anthology_id": "2021.jeptalnrecital-taln.30",
                 "url": "https://aclanthology.org/2021.jeptalnrecital-taln.30",
                 "pub_year": "2021"
-            }
+            },
+            "is_relevant_pred": false,
+            "is_relevant_truth": false
         },
         {
             "title": "Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts",
@@ -6701,7 +7509,9 @@
                 "anthology_id": "2024.tsar-1.5",
                 "url": "https://aclanthology.org/2024.tsar-1.5",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Society of Medical Simplifiers",
@@ -6714,7 +7524,9 @@
                 "anthology_id": "2024.tsar-1.7",
                 "url": "https://aclanthology.org/2024.tsar-1.7",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "SciGisPy: a Novel Metric for Biomedical Text Simplification via Gist Inference Score",
@@ -6727,7 +7539,9 @@
                 "anthology_id": "2024.tsar-1.10",
                 "url": "https://aclanthology.org/2024.tsar-1.10",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluating Factuality in Text Simplification",
@@ -6740,7 +7554,9 @@
                 "anthology_id": "2022.acl-long.506",
                 "url": "https://aclanthology.org/2022.acl-long.506",
                 "pub_year": "2022"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Evaluation of intralingual machine translation for health communication",
@@ -6753,7 +7569,9 @@
                 "anthology_id": "2024.eamt-1.39",
                 "url": "https://aclanthology.org/2024.eamt-1.39",
                 "pub_year": "2024"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "NapSS: Paragraph-level Medical Text Simplification via Narrative Prompting and Sentence-matching Summarization",
@@ -6766,7 +7584,9 @@
                 "anthology_id": "2023.findings-eacl.80",
                 "url": "https://aclanthology.org/2023.findings-eacl.80",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         },
         {
             "title": "Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding",
@@ -6779,8 +7599,10 @@
                 "anthology_id": "2023.findings-emnlp.322",
                 "url": "https://aclanthology.org/2023.findings-emnlp.322",
                 "pub_year": "2023"
-            }
+            },
+            "is_relevant_pred": true,
+            "is_relevant_truth": true
         }
     ],
-    "last_updated": "2024-12-22 10:14:49"
+    "last_updated": "2024-12-28 16:23:45"
 }
