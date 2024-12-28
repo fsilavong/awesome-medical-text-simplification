@@ -1,1 +1,0 @@
-import{a,t as e}from"../chunks/disclose-version.D-W0F3vr.js";import"../chunks/legacy.yt335TTW.js";var r=e('<div><h1 class="text-3xl font-bold underline">Hello world!</h1></div>');function p(o){var t=r();a(o,t)}export{p as component};
