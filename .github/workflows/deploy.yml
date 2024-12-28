@@ -19,23 +19,23 @@ jobs:
           node-version: 18
 
       - name: Change directory to myapp
-        run: cd myapp
+        run: cd app
 
       - name: Install dependencies
         run: |
-          cd myapp
+          cd app
           npm install
 
       - name: Build Svelte app
         run: |
-          cd myapp
+          cd app
           npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: myapp/build
+          publish_dir: app/build
 
 permissions:
   contents: write
