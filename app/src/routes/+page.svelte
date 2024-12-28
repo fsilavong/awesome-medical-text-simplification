@@ -22,7 +22,7 @@
   let last_updated = "";
 
   onMount(async () => {
-    const response = await fetch("/filtered_result.json");
+    const response = await fetch(`${import.meta.env.BASE_URL}filtered_result.json`);
     const data = await response.json();
     results = data.results;
     results.sort((a, b) => {
