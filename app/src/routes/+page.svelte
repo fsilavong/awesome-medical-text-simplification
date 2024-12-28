@@ -38,15 +38,15 @@
   <div class="flex flex-col md:w-1/2 w-full items-center space-y-4 pb-8">
     <p class="text-xl">Awesome Medicial Text Simplification</p>
     <p class="text-sm">Last updated: {last_updated}</p>
-    <p class="text-sm">Number of Papers: {results.length}</p>
-    <p class="text-sm">Found by <a href='https://github.com/fsilavong/litocate'>Litocate</a></p>
+    <p class="text-sm">{results.length} Peer Reviewed Papers 📈</p>
+    <p class="text-sm">🔋 by <a href='https://github.com/fsilavong/litocate'>Litocate</a></p>
   </div>
 
   <div
-    class="flex h-full md:w-1/2 w-full overflow-y-auto rounded-lg md:p-4 p-8 scrollbar text-slate-300"
+    class="flex h-full md:w-1/2 w-4/5 overflow-y-auto rounded-lg md:p-4 scrollbar text-slate-300 text-wrap"
   >
     {#if results.length > 0}
-      <div class='divide-y divide-slate-400'>
+      <div class='divide-y divide-slate-400 w-full'>
         {#each results as result, idx}
           <div class=''>
             <div class="my-4 flex flex-col space-y-4">
@@ -55,7 +55,7 @@
 
             {#if result.abstract && typeof result.abstract === "object"}
               {#each Object.entries(result.abstract) as [key, value]}
-                <div class='mb-4'>
+                <div class='mb-4 w-full'>
                   {#if !(key.startsWith("title") || key.startsWith("abstract"))}
                     <p class="font-semibold text-xs">{key}</p>
                   {/if}
@@ -66,7 +66,7 @@
               <p>No abstract available</p>
             {/if}
 
-            <div class="metadata mb-4 text-sm">
+            <div class="metadata mb-4 text-sm w-full">
               {#if result.metadata.doi}
                 <p>
                   <strong>DOI:</strong>
