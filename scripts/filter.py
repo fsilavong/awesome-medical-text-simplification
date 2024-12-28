@@ -33,7 +33,14 @@ for r in results:
         filtered_results.append(r)
 print(f"After Keyword Filter: {len(filtered_results)}")
 
-classifier = LLMClassifier()
+classify_prompt ="""
+Identify and review passage to determine if it is related to biomedical/healthcare text simplification that use Large Language Model, or Natural Language Processing techniques, focusing on methods (including automated evaluation), datasets (e.g., PubMed, clinical notes, UMLS), target audiences (patients, professionals), and measurable impact on readability and real-world usability.
+
+Passage:
+{input}
+"""
+classifier = LLMClassifier(classify_prompt)
+
 for r in filtered_results:
     passage = f"""
     {r['title']}
@@ -44,7 +51,7 @@ for r in filtered_results:
     r['is_relevant_pred'] = classification.relevant
     r['is_relevant_truth'] = classification.relevant # Human Evaluation Placeholder
 
-with open('filtered_result.json', 'w') as outf:
+with open('app/static/filtered_result.json', 'w') as outf:
     json.dump({
         RESULT_KEY: filtered_results,
         LAST_UPDATE_KEY: execute_datetime
