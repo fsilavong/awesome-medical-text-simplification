@@ -36,6 +36,7 @@
     });
     filteredResults = [...results];
     last_updated = data.last_updated;
+    document.title = "Awesome Medical Text Simplification";
   });
 
   function toggleRelevantOnly() {
