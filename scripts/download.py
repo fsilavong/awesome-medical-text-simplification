@@ -1,4 +1,3 @@
-import os
 import json 
 import datetime
 
@@ -6,15 +5,13 @@ from litocate.data.pubmed import PubMedClient
 from litocate.data.acl import AnthologyClient
 from litocate.data.constant import DS_FORMAT, LAST_UPDATE_KEY, RESULT_KEY, PUBMED_FOLDERS
 
-max_threads = min(32, (os.cpu_count() or 1) * 2)
+import sys 
+sys.path.append('.')
+from config import keywords, pub_after_year, max_threads
+
 download_datetime = datetime.datetime.now().strftime(DS_FORMAT)
-
-# Keywords derived from `notebooks/EDA.ipynb`
-keywords = ['text simplification', 'sentence simplification', 'text style transfer',
-    'text adaptation', 'lexical simplification', 'readability']
-pub_after_year = 2021
-
 results = []
+
 
 for pubmed_folder in PUBMED_FOLDERS:
     pubmed_result = PubMedClient(
