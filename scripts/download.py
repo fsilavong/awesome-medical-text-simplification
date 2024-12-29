@@ -23,14 +23,14 @@ for pubmed_folder in PUBMED_FOLDERS:
         keywords=keywords,
         pub_after_year=pub_after_year,
         max_threads=max_threads,
-        n=2
+        # n=2
     )
     results.extend(pubmed_result)
     
 acl_result = AnthologyClient().find_papers(
     keywords=keywords, 
     pub_after_year=pub_after_year,
-    n=2
+    # n=2
 )
 results.extend(acl_result)
 
