@@ -1,16 +1,16 @@
 import datetime
 import json
-from tqdm import tqdm
+# from tqdm import tqdm
 
 from litocate.data.utils import compound_token_match
 from litocate.data.constant import DS_FORMAT, LAST_UPDATE_KEY, RESULT_KEY
-from litocate.llm.filter import LLMClassifier
+# from litocate.llm.filter import LLMClassifier
 
 results = json.load(open(f'result.json'))['results']
     
 compound_keywords = [
    ['text simplification', 'sentence simplification', 'text style transfer',
-    'text adaptation', 'lexical simplification', 'readability'],
+    'text adaptation', 'lexical simplification'],
    ['biomedical', 'medical', 'clinical', 'healthcare'], 
 ]
 execute_datetime = datetime.datetime.now().strftime(DS_FORMAT)
@@ -34,23 +34,23 @@ for r in results:
         filtered_results.append(r)
 print(f"After Keyword Filter: {len(filtered_results)}")
 
-classify_prompt ="""
-Identify and review passage to determine if it is related to biomedical/healthcare text simplification that use Large Language Model, or Natural Language Processing techniques, focusing on methods (including automated evaluation), datasets (e.g., PubMed, clinical notes, UMLS), target audiences (patients, professionals), and measurable impact on readability and real-world usability.
+# classify_prompt ="""
+# Identify and review passage to determine if it is related to biomedical/healthcare text simplification that use Large Language Model, or Natural Language Processing techniques, focusing on methods (including automated evaluation), datasets (e.g., PubMed, clinical notes, UMLS), target audiences (patients, professionals), and measurable impact on readability and real-world usability.
 
-Passage:
-{input}
-"""
-classifier = LLMClassifier(classify_prompt)
+# Passage:
+# {input}
+# """
+# classifier = LLMClassifier(classify_prompt)
 
-for r in tqdm(filtered_results):
-    passage = f"""
-    {r['title']}
+# for r in tqdm(filtered_results):
+#     passage = f"""
+#     {r['title']}
     
-    {" ".join(r['abstract'].values()) if r['abstract'] else ""}
-    """
-    classification = classifier.classify(passage)
-    r['is_relevant_pred'] = classification.relevant
-    r['is_relevant_truth'] = classification.relevant # Human Evaluation Placeholder
+#     {" ".join(r['abstract'].values()) if r['abstract'] else ""}
+#     """
+#     classification = classifier.classify(passage)
+#     r['is_relevant_pred'] = classification.relevant
+#     r['is_relevant_truth'] = classification.relevant # Human Evaluation Placeholder
 
 with open('app/static/filtered_result.json', 'w') as outf:
     json.dump({
