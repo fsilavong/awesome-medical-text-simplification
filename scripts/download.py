@@ -12,6 +12,7 @@ from config import keywords, pub_after_year, max_threads
 download_datetime = datetime.datetime.now().strftime(DS_FORMAT)
 results = []
 
+
 for pubmed_folder in PUBMED_FOLDERS:
     pubmed_result = PubMedClient(
         folder=pubmed_folder    

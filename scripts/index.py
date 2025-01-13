@@ -11,8 +11,8 @@ from config import keywords, pub_after_year, max_threads
 index = datetime.datetime.now().strftime(DS_FORMAT)
 results = []
 
-with open(f'app/static/filtered_result.json', 'w') as f:
-    last_updated = json.loads(f)[LAST_UPDATE_KEY]
+with open(f'app/static/filtered_result.json', 'r') as f:
+    last_updated = json.load(f)[LAST_UPDATE_KEY]
 
 for pubmed_folder in PUBMED_FOLDERS:
     pubmed_result = PubMedClient(
@@ -21,7 +21,5 @@ for pubmed_folder in PUBMED_FOLDERS:
         datetime_str=last_updated, 
         keywords=keywords,
         pub_after_year=pub_after_year,
-        max_threads=max_threads,
     )
     results.extend(pubmed_result)
-    
